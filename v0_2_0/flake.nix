@@ -11,6 +11,7 @@
   inputs.src-iputils-v0_2_0.ref   = "refs/tags/v0.2.0";
   inputs.src-iputils-v0_2_0.owner = "rockcavera";
   inputs.src-iputils-v0_2_0.repo  = "nim-iputils";
+  inputs.src-iputils-v0_2_0.dir   = "";
   inputs.src-iputils-v0_2_0.type  = "github";
   
   inputs."stew".owner = "nim-nix-pkgs";
