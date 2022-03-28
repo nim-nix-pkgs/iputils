@@ -11,7 +11,6 @@
   inputs.src-iputils-v0_1_0.ref   = "refs/tags/v0.1.0";
   inputs.src-iputils-v0_1_0.owner = "rockcavera";
   inputs.src-iputils-v0_1_0.repo  = "nim-iputils";
-  inputs.src-iputils-v0_1_0.dir   = "";
   inputs.src-iputils-v0_1_0.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:

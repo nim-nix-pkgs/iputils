@@ -11,7 +11,6 @@
   inputs.src-iputils-master.ref   = "refs/heads/master";
   inputs.src-iputils-master.owner = "rockcavera";
   inputs.src-iputils-master.repo  = "nim-iputils";
-  inputs.src-iputils-master.dir   = "";
   inputs.src-iputils-master.type  = "github";
   
   inputs."stew".owner = "nim-nix-pkgs";
